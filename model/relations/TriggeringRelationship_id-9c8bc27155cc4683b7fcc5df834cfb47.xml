@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Circuit Breaker"
+    id="id-9c8bc27155cc4683b7fcc5df834cfb47">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-77a1f412855f48c9b63cc66bd76849ff.xml#id-77a1f412855f48c9b63cc66bd76849ff"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9c4337c8773e4dbe8b848cd3c494b97a.xml#id-9c4337c8773e4dbe8b848cd3c494b97a"/>
+</archimate:TriggeringRelationship>
